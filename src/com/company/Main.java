@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-if ("sdsd")
+int age = 50;
+        System.out.println("ты можешь водить");
     }
 }
